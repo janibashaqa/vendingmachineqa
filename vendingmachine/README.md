@@ -28,3 +28,4 @@ The second way run this program, Intellij or Eclipse IDE is required
 Open the vending machine folder from Intellij and after setting up of JDK, run the Main.java file available in source folder by right clicking Run command
 
 It will prompt and ask for the details as mentioned above.
+Jani Basha Shaik 
